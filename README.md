@@ -1,2 +1,3 @@
-# R_QTM_100_Project
-QTM 100 final project analyzing the National Study of Youth and Religion dataset.
+# QTM 100 final project
+### Description
+This project analyzes how religious faith and participation is correlated with various socioeconomic factors, such as income and education level.
